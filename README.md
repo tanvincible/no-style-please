@@ -1,6 +1,8 @@
 # no style, please!
 
-[!IMPORTANT] > This is a **maintained fork** of the original [no style, please!](https://github.com/riggraz/no-style-please) repository, which is **no longer actively maintained**. All active development happens in the **`web` branch**.
+> [!IMPORTANT]
+> This is a **maintained fork** of the original [no style, please!](https://github.com/riggraz/no-style-please) repository, which is **no longer actively maintained**.  
+> All active development happens in the **`web` branch**.
 
 <img src="https://raw.githubusercontent.com/riggraz/no-style-please/master/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Jekyll](https://jekyllrb.com/) theme.
 Inspired by [elly's site](http://tilde.town/~elly/), expressly created for [my personal blog](https://riggraz.dev/).
